@@ -1,4 +1,4 @@
-# File Manipulator CLI Tool
+# Rust File Manipulator CLI Tool
 
 This Rust-based CLI tool allows users to manipulate files through various operations like reading, writing, appending, copying and deleting
 files in a directory. The tool is designed to be user-friendly, with clear command-line instructions.
